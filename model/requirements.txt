@@ -1,0 +1,7 @@
+flask 
+flask-cors 
+langchain 
+google-generativeai 
+python-dotenv 
+faiss-cpu 
+py-eureka-client
